@@ -15,9 +15,9 @@ public class Graph_View extends Frame implements ActionListener,WindowListener {
 		
 		DefaultCategoryDataset data = new DefaultCategoryDataset();
 
-    data.addValue(300, "米国", "2005年");
-    data.addValue(500, "米国", "2006年");
-    data.addValue(120, "米国", "2007年");
+    data.addValue(300, "アメリカ", "2005年");
+    data.addValue(500, "アメリカ", "2006年");
+    data.addValue(120, "アメリカ", "2007年");
     
     data.addValue(200, "中国", "2005年");
     data.addValue(400, "中国", "2006年");
